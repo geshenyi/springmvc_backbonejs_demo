@@ -904,6 +904,56 @@ color: lightgray;
     list-style-type: circle;
 }
 
+#backbone #backboneOverview {
+    margin-top: 50px;
+    font-size: 1.5rem;
+    margin-left: 40px;
+    list-style-type: circle;
+}
+
+#backbone1 #modelUl {
+    margin-top: 50px;
+    font-size: 1.5rem;
+    margin-left: 40px;
+    list-style-type: circle;
+}
+
+#backbone2 #viewUl {
+    margin-top: 50px;
+    font-size: 1.5rem;
+    margin-left: 40px;
+    list-style-type: circle;
+}
+
+#backbone3 #collectionUl {
+    margin-top: 50px;
+    font-size: 1.5rem;
+    margin-left: 40px;
+    list-style-type: circle;
+}
+
+#backbone1 #modelcode{
+    font-size: 1rem;
+    line-height: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+#backbone2 #viewcode{
+    font-size: 1rem;
+    line-height: 15px;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+#backbone3 #collectioncode{
+    font-size: 1.5rem;
+    line-height: 30px;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+
 #springmvc5 #ctrlcode {
     
     margin-left: 40px;
